@@ -10,10 +10,10 @@ class App extends React.Component {
             <main>
                 <AppHeader/>
                 <div className="row">
-                    <AppContainer title="Созданы" color="teal lighten-4" type={0} />
-                    <AppContainer title="Запущены" color="orange lighten-4" type={1} />
-                    <AppContainer title="Тестируются" color="purple lighten-4" type={3} />
-                    <AppContainer title="Завершены" color="light-green lighten-4" type={2} />
+                    <AppContainer title="Созданы" color="teal lighten-5" type={0} />
+                    <AppContainer title="Запущены" color="orange lighten-5" type={1} />
+                    <AppContainer title="Тестируются" color="purple lighten-5" type={3} />
+                    <AppContainer title="Завершены" color="light-green lighten-5" type={2} />
                 </div>
             </main>
         )

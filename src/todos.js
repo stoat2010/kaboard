@@ -23,6 +23,16 @@ const todos = [
         id: 4,
         todo: 'Задача тестируется',
         container: 3
+    },
+    {
+        id: 5,
+        todo: 'Задача тестируется',
+        container: 3
+    },
+    {
+        id: 6,
+        todo: 'Задача тестируется',
+        container: 3
     }
 ]
 export default todos;
